@@ -1,2 +1,2 @@
-# drlnd_p3_collaboration_competition
+# drlnd-p3-collaboration-competition
 Udacity Deep Reinforcement Learning Nanodegree Project 3 repository
