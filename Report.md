@@ -39,7 +39,7 @@ The plot below shows the agent's learning progress over time.
 
 ![Agent Performance](performance.png)
 
-From above we can see that agent learning improves steadily over time until we reach an average reward of +30 for the last 100 episodes at episode 112.
+From above we can see that agent learning improves steadily over time until we reach an average reward of +0.5 for the last 100 episodes at episode 2038.
 
 ## Ideas for future work
 
