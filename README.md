@@ -13,7 +13,7 @@ The environment is considered solved when the agents receive an average reward o
 ## Getting Started
 The easiest way to run this repository would be to clone it into an existing Udacity virtual workspace. This is because the Python requirements and install instructions in the Udacity DRLND Github repository is rather outdated, and the virtual workspaces provided already contain everything needed for execution. All development for this project was completed on the Udacity virtual workspace.
 
-If it's desired to run this agent locally, clone the [DRLND Github repo](https://github.com/udacity/deep-reinforcement-learning/) and follow the setup instructions for the whole repository. From there, follow the project-specific instructions located under `p2_continuous_control`.
+If it's desired to run this agent locally, clone the [DRLND Github repo](https://github.com/udacity/deep-reinforcement-learning/) and follow the setup instructions for the whole repository. From there, follow the project-specific instructions located under `p3_collab-compet`.
 
 ## Instructions
 In order to train the agent, run `Tennis.ipynb` end-to-end. More details on each individual cell and the purpose are provided inside the notebook.
